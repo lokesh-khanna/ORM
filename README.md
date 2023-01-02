@@ -3,27 +3,26 @@
 ## AIM
 To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
 
-## Entity Relationship Diagram
+## ENTITY RELATIONSHIP DIAGRAM
 
-Include your ER diagram here
+![ENTITY RELATIONSHIP DIAGRAM](./lokesh.png)
 
 ## DESIGN STEPS
 
-### STEP 1:
+### STEP 1: 
+Create a git clone "ORM"
 
 ### STEP 2:
+ Add user name,user email in the git
 
 ### STEP 3:
+ Make migration and run the server
 
-Write your own steps
-
-## PROGRAM
-
-Include your code here
 
 ## OUTPUT
+![OUTPUT](./yes.png)
 
-Include the screenshot of your admin page.
 
 
 ## RESULT
+ the program has been sucessfully executed.
